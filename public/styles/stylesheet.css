@@ -52,9 +52,16 @@ height: 400px;
   height:100px ;
   background-color:#E1E2E2;
 }
+
+.boldIntroBox {
+  padding-left: 162px;
+  padding-top: 10px;
+  color: #53ABF7;
+  font-size: 20px;
+}
 .ctaImgDescript {
   text-align: right;
-  padding-top: 35px;
-  padding-right: 24px;
-  color:#53ABF7 ;
+  padding-right: 20px;
+  padding-top: 4px;
+  color:#53ABF7;
 }
