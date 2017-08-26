@@ -1,0 +1,64 @@
+
+body {
+  margin: 0px;
+}
+
+.imgBanner {
+width: 1240px;
+height: 400px;
+}
+
+#left {
+  background: #00BFFF;
+  position: fixed;
+}
+
+#left {
+  top: 0;
+  bottom: 0;
+  width: 30px;
+}
+
+#left {
+  left: 0;
+}
+
+.row {
+  padding-left: 185px;
+}
+
+.firstBox {
+  padding-left: 40px;
+}
+
+.secondBox {
+  padding-left: 625px;
+}
+
+.thirdBox {
+  padding-left: 40px;
+}
+
+.fourthBox {
+  padding-left: 625px;
+}
+
+.heading3 {
+  color:#1765BF;
+}
+
+.coverageInfo {
+  padding-left: ;
+}
+
+.copyRight {
+  padding-left:;
+}
+
+.socialMedia {
+  padding-left: ;
+}
+
+/*.bottomLogo {
+  padding-left: 70px;
+}*/
