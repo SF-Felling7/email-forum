@@ -47,18 +47,14 @@ height: 400px;
   color:#1765BF;
 }
 
-.coverageInfo {
-  padding-left: ;
+.ctaImg {
+  width:600px ;
+  height:100px ;
+  background-color: lightgrey;
 }
-
-.copyRight {
-  padding-left:;
+.ctaImgDescript {
+  text-align: right;
+  padding-top: 35px;
+  padding-right: 24px;
+  color: ;
 }
-
-.socialMedia {
-  padding-left: ;
-}
-
-/*.bottomLogo {
-  padding-left: 70px;
-}*/
